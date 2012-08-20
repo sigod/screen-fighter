@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenFighter", "ScreenFighter\ScreenFighter.csproj", "{C98AC02D-A6A2-4E55-B7C6-E53A08D75FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C98AC02D-A6A2-4E55-B7C6-E53A08D75FEA}.Debug|x86.ActiveCfg = Debug|x86
+		{C98AC02D-A6A2-4E55-B7C6-E53A08D75FEA}.Debug|x86.Build.0 = Debug|x86
+		{C98AC02D-A6A2-4E55-B7C6-E53A08D75FEA}.Release|x86.ActiveCfg = Release|x86
+		{C98AC02D-A6A2-4E55-B7C6-E53A08D75FEA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
